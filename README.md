@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div class="oranda-hide">
 
 # rustlings 🦀❤️
@@ -178,3 +179,7 @@ See [CONTRIBUTING.md](https://github.com/rust-lang/rustlings/blob/main/CONTRIBUT
 ## Contributors ✨
 
 Thanks goes to the wonderful people listed in [AUTHORS.md](https://github.com/rust-lang/rustlings/blob/main/AUTHORS.md) 🎉
+=======
+# rustlings
+study rust by rustlings
+>>>>>>> cbf4570ce316bda628fc962b0993b99cfdbea35f

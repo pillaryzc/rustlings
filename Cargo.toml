@@ -19,6 +19,8 @@ serde_json = "1.0.81"
 home = "0.5.3"
 glob = "0.3.0"
 clap = { version = "4.4.0", features = ["derive"] }
+proc-macro2 = { version = "=1.0.59", features=["default", "proc-macro"] }
+
 
 [[bin]]
 name = "rustlings"
